@@ -30,14 +30,14 @@
 - Connect with me down below!
 
 ## 📈 Stats
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=(raglandc))](https://github.com/raglandc/github-readme-stats)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=raglandc)](https://github.com/raglandc/github-readme-stats)
 
 ## 🔗Connect with me!
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]((https://github.com/raglandc)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raglandc)
 
-[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)]((https://www.instagram.com/chris_ragland)
+[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/chris_ragland)
 
-[![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]((https://www.linkedin.com/in/chris-ragland-42461a1b4/)
+[![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/chris-ragland-42461a1b4/)
 
 
 <!--
