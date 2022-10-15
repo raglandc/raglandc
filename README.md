@@ -13,16 +13,11 @@
 
 ## 🛠 Skills
 
-!
-[typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-!
-[react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-!
-[css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-!
-[html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-!
-[Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📝 Networking
 - I am currently looking for a summer internship!
@@ -34,9 +29,7 @@
 
 ## 🔗Connect with me!
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raglandc)
-
 [![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/chris_ragland)
-
 [![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/chris-ragland-42461a1b4/)
 
 
