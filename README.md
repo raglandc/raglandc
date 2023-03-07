@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - I am Christopher Ragland, a Computer Science student at the University of South Florida (Go Bulls)
-- I am currently a full-time student, SSTEM Scholar, and Flit-GAP Scholar
+- I am currently a full-time student, NSF SSTEM Scholar, and Flit-GAP Scholar
 
 📚Outside of the tech world, I enjoy:
 
