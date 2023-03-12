@@ -13,7 +13,7 @@
 
 ## 🛠 Skills
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
