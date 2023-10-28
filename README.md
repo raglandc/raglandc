@@ -22,11 +22,8 @@
 
 ## 📝 Networking
 - I am currently looking for a summer internship!
-- I am also looking to collaborate on opensource projects!
+- I am also looking to collaborate on open-source projects!
 - Connect with me down below!
-
-## 📈 Stats
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=raglandc)](https://github.com/raglandc/github-readme-stats)
 
 ## 🔗Connect with me!
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raglandc)
