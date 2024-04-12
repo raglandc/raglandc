@@ -5,12 +5,6 @@
 - I am Christopher Ragland, a Computer Science student at the University of South Florida (Go Bulls)
 - I am currently a full-time student, NSF SSTEM Scholar, and Flit-GAP Scholar
 
-📚Outside of the tech world, I enjoy:
-
-- Playing basketball ⛹️‍♂️
-- Studying different Financial Markets 📈📉
-- Playing the guitar 🎸
-
 ## 🛠 Skills
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -21,7 +15,6 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📝 Networking
-- I am currently looking for a summer internship!
 - I am also looking to collaborate on open-source projects!
 - Connect with me down below!
 
